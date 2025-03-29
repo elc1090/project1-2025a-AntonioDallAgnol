@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-0GsTofh)
 # Projeto: Remake de site/app web
 
-!("Screenshot do projeto. ![C:\Users\anton\OneDrive\Área de Trabalho\web\project1-2025a-AntonioDallAgnol\img\Captura de tela 2025-03-29 165818.png](https://raw.githubusercontent.com/elc1090/project1-2025a-AntonioDallAgnol/refs/heads/main/img/Captura%20de%20tela%202025-03-29%20165818.png)")
+!["Screenshot do projeto. C:\Users\anton\OneDrive\Área de Trabalho\web\project1-2025a-AntonioDallAgnol\img\Captura de tela 2025-03-29 165818.png"](https://raw.githubusercontent.com/elc1090/project1-2025a-AntonioDallAgnol/refs/heads/main/img/Captura%20de%20tela%202025-03-29%20165818.png)
 
 
 Acesso: https://antonio-t1-web.netlify.app
