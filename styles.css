@@ -5,8 +5,8 @@ body {
     background: #f4f4f4;
     color: #333;
     margin: 0;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 200px;
+    padding-right: 200px;
     justify-content: center;
     align-items: center;
     display: grid;
@@ -138,6 +138,12 @@ h2 {
 h3 {
     font-size: 1.5em;
     color: #2980b9;
+}
+
+.sublist {
+    margin-left: 40px;
+    font-size: 0.8em;
+    color: #34495e;
 }
 
 /* Estilos para links */
